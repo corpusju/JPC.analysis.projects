@@ -1,8 +1,6 @@
-## WELCOME TO MY SITE
+## Welcome to my page JPC 
 
-You can use the [editor on GitHub](https://github.com/corpusju/JPC.analysis.projects/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I do want to showcase my work with some of my projects on basic data analysis and visualization. 
 
 ### Markdown
 
